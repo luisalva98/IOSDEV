@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+import AlamofireImage
 class MovieViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
     
     
@@ -60,6 +60,7 @@ class MovieViewController: UIViewController, UITableViewDataSource, UITableViewD
 //        cell.textLabel!.text = title
         cell.movieTitle.text = title
         cell.movieDescription.text = description
+        cell.imageView!.af_setImage(withURL: posterUrl!)
         
         
         return cell;
