@@ -62,7 +62,7 @@ class MovieViewController: UIViewController, UITableViewDataSource, UITableViewD
         cell.imageView!.af_setImage(withURL: posterUrl!)
         
         
-        return cell;
+        return cell
     }
     
 
