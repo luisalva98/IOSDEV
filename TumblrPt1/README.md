@@ -1,21 +1,112 @@
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
+# Add this to top of exsiting Tumblr README
+# Lab 1 - *Tumblr-Details Screen*
 
-## Flix Part 2
+**Tumblr** is a photo browsing app app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
 
-### User Stories
+Time spent: **x** hours spent in total
 
-#### REQUIRED (10pts)
-- [ ] (5pts) User can tap a cell to see more details about a particular movie.
-- [ ] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+## User Stories
 
-#### BONUS
-- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
-- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+The following **required** user stories are complete:
 
-### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+- x[] User can tab an image to view a larger image in a detail view (5pts)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+The following **stretch** user stories are implemented:
 
-### Notes
-Describe any challenges encountered while building the app.
+- [ ] Add Avatar and Publish Dates (+2pt)
+- [ ] Zoomable Photo View (+2pt)
+- [ ] Infinite Scrolling (+2pt)
+
+The following **additional** user stories are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality! (+1-3pts)
+
+Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
+
+
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='giphy1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+Updating the date label
+
+## License
+
+Copyright [2019] [YOUR NAME]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+
+
+
+# Add this to top of exsiting Tumblr README
+# Lab 2 - *Tumblr-Details Screen*
+
+**Tumblr** is a photo browsing app app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
+
+Time spent: **x** hours spent in total
+
+## User Stories
+
+The following **required** user stories are complete:
+
+- [x] User can tab an image to view a larger image in a detail view (5pts)
+
+The following **stretch** user stories are implemented:
+
+- [ ] Add Avatar and Publish Dates (+2pt)
+- [ ] Zoomable Photo View (+2pt)
+- [ ] Infinite Scrolling (+2pt)
+
+The following **additional** user stories are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality! (+1-3pts)
+
+Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
+
+
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='giphy1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+Updating the date label
+
+## License
+
+Copyright [2019] [YOUR NAME]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
